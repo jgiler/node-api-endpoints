@@ -1,0 +1,66 @@
+{
+    "employees": [
+        {
+            "employeeID": 1,
+            "name": "Ko Man",
+            "salary": "50k",
+            "Department": "dev"
+        },
+        {
+            "employeeID": 2,
+            "name": "Kaka Moo",
+            "salary": "500k",
+            "Department": "welding"
+        },
+        {
+            "employeeID": 3,
+            "name": "Mo Ka",
+            "salary": "2k",
+            "Department": "nba"
+        },
+        {
+            "employeeID": 4,
+            "name": "Zu Koo",
+            "salary": "5k",
+            "Department": "karate"
+        },
+        {
+            "employeeID": 5,
+            "name": "Na Gee",
+            "salary": "100k",
+            "Department": "security"
+        },
+        {
+            "employeeID": 6,
+            "name": "Apple Seed",
+            "salary": "60k",
+            "Department": "farm"
+        },
+        {
+            "employeeID": 7,
+            "name": "Wukong Spin",
+            "salary": "400k",
+            "Department": "top"
+        },
+        {
+            "employeeID": 8,
+            "name": "Riven Bunny",
+            "salary": "70k",
+            "Department": "bruiser"
+        },
+        {
+            "employeeID": 9,
+            "name": "Irelia Blade",
+            "salary": "700k",
+            "Department": "Assasin"
+        },
+        {
+            "employeeID": 10,
+            "name": "Blitz Crank",
+            "salary": "900k",
+            "Department": "pull"
+        }
+    ]
+}
+
+
